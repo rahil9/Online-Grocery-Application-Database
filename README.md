@@ -36,10 +36,21 @@ Inventory represents the stock of products available for sale. It tracks the qua
 Sellers are entities or individuals who supply products to the application. They manage their product listings, prices, and inventory levels. 
 
 ## Usage
-The Online Grocery Application Database can be used to:
-- Allow customers to register, browse products, add them to their carts, and place orders.
-- Enable sellers to manage their product listings, update inventory, and track sales.
-- Empower admins to oversee the entire operation, manage users, products, orders, and payments, and ensure smooth functioning of the application.
+This Grocery App Database is great for different types of users:
+
+- Customers: Find, buy, and leave reviews on products.
+- Sellers: List products, track sales, and talk to customers.
+- Admins: Control everything, like users, orders, and payments.
+
+The database is set up with the following features:
+
+- Categories: Keep products organized.
+- Orders: Track sales and deliveries.
+- Reviews: Collect feedback.
+- Payments: Record purchases.
+- Shipping and Inventory: Manage deliveries and product availability.
+
+Sellers add products, change listings, and communicate with users and admins through the database.
 
 ## Technologies Used
 - Database Management System: SQL
